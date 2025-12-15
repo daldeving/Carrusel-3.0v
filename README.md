@@ -11,9 +11,9 @@ de dirección (izquierda y derecha).
 ## 🖼️ Vista previa
 
 
-```md
-![Vista previa](/img/carrusel-3.0v-daldeving.PNG)
-```
+
+![Vista previa](img/carrusel-3.0v-daldeving.PNG)
+
 
 ---
 
