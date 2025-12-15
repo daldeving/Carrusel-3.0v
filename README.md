@@ -10,7 +10,6 @@ de dirección (izquierda y derecha).
 
 ## 🖼️ Vista previa
 
-> Agrega aquí una imagen del proyecto cuando lo subas a GitHub:
 
 ```md
 ![Vista previa](img/carrusel-3.0v-daldeving.PNG)
